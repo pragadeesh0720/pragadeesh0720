@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pragadeeshwaran</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align='right' alt='zeros' width='400' src='https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif'>
+<img align='right' alt='zeros' width='200' src='https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragadeesh0720&label=Profile%20views&color=0e75b6&style=flat" alt="pragadeesh0720" /> </p>
 
 - 🌱 I’m currently learning **React and Flutter**
