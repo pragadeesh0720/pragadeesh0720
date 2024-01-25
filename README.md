@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pragadeeshwaran</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align='right' alt='zeros' width='200' src='https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif'>
+<img align='right' alt='zeros' width='220' src='https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47g8fx0h7pe77qfzf12m7vjwriap29gjq6chsckkoi&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+<img align='right' alt='zeros' width='220' src='https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xzdu0f9zj0lyoeig1u5pkak3diox8yqq5ovd4pvb&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragadeesh0720&label=Profile%20views&color=0e75b6&style=flat" alt="pragadeesh0720" /> </p>
 
 - 🌱 I’m currently learning **React and Flutter**
