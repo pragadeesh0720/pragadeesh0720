@@ -16,7 +16,7 @@
 </p>
 
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on Django /python based projects<br>🌱 I’m currently learning JavaScript and Docker<br>💬 Ask me about Python<br>⚡ Fun fact : All know is py
+<br>👯 I’m looking to collaborate on Django /Python based projects<br>🌱 I’m currently learning JavaScript and Docker<br>💬 Ask me about Python<br>⚡ Fun fact : All know is py
 
 
 # 💻 Tech Stack:
