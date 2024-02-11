@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pragadeeshwaran</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align='right' alt='zeros' width='220' src='https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47g8fx0h7pe77qfzf12m7vjwriap29gjq6chsckkoi&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
-<img align='right' alt='zeros' width='220' src='https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xzdu0f9zj0lyoeig1u5pkak3diox8yqq5ovd4pvb&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+<img align="right" width="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhpbGowaXdzOXRzZDFkbzRtaDN0ZnhkbXZpY3ZqYXZvN2NjbnQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62eIf5RZ/giphy.gif">
+<img align='right' alt='zeros' width='220' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhtNjhjendsbnkyenZpNnZsNjQ5ZDg0aTJnMTdqMW1veWtmODlobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragadeesh0720&label=Profile%20views&color=0e75b6&style=flat" alt="pragadeesh0720" /> </p>
 
 - 📫 How to reach me **pragadeeshworkk@gmail.com**
