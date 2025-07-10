@@ -2,13 +2,12 @@
 
 ## 🚀 About Me  
 - 🔐 **Cybersecurity Enthusiast**  
-- 🛡️ Passionate about **cybersecurity, ethical hacking & threat analysis**  
-- 🐍 Skilled in **Python** for automation, security scripting & exploit development  
+- 🛡️ Passionate about **cybersecurity, ethical hacking & software testing**  
+- 🐍 Skilled in **Python and Java** for automation & security scripting
 - 🛠️ Hands-on with **top cybersecurity tools**:  
   - `Wireshark | Nmap | Metasploit | Burp Suite | Nikto | Ghidra & more`  
 - 🎯 Currently mastering **penetration testing & security operations**  
-- 📬 Let’s connect! Reach me at **pragadeeshworkk@gmail.com**  
-- ⚡ **Fun fact:** `while(True): print("All I know is PY!")`  
+- 📬 Let’s connect! Reach me at **pragadeeshworkk@gmail.com**   
 
 ---
 
